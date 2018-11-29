@@ -1,0 +1,28 @@
+{
+  "name": "packazh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "complex.js": "^2.0.11",
+    "express": "^4.16.4",
+    "fft.js": "^4.0.3",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "recharts": "^1.3.6",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/preset-env": "^7.1.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4"
+  }
+}
